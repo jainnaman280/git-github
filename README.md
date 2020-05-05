@@ -1,3 +1,3 @@
 # git-github
 
-This is git tutotail. teach by edureka
+This is git tutotail.
